@@ -21,6 +21,17 @@ The objective of this project is to:
 | DAX | KPI Calculations and Measures |
 | Power Query | Data Cleaning & Transformation | 
 
+## 🧠 Skills Demonstrated
+
+- Data Cleaning using Power Query
+- Data Modeling
+- DAX Measures & Calculations
+- KPI Development
+- Interactive Dashboard Design
+- Business Data Analysis
+- Data Visualization
+- Data Storytelling
+
 # 📂 Dataset
 
 - Dataset: Sample Superstore
@@ -56,4 +67,39 @@ The objective of this project is to:
 
 ## 📸 Dashboard Demo
 
-<img width="1053" height="788" alt="dashboard_demo gif" src="https://github.com/user-attachments/assets/77c53b11-a4b5-42bf-800e-1770f7721797" />
+The GIF below demonstrates the interactive features of the Power BI dashboard.
+
+![Dashboard Demo](Screenshots/dashboard_demo.gif)
+
+## 📷 Dashboard Screenshot
+
+![Dashboard Screenshot](Screenshots/dashboard.png)
+
+# 🔍 Key Insights
+
+- Technology generates the highest profit.
+- Furniture has lower profit margins because of higher discounts.
+- The West region contributes the highest sales.
+- High return rates reduce profitability in some regions.
+- A few sub-categories generate most of the revenue.
+
+# 💡 Business Recommendations
+
+- Reduce excessive discounts.
+- Improve logistics in high-return regions.
+- Focus marketing on profitable categories.
+- Increase investment in high-performing products.
+
+## 📌 Conclusion
+
+This dashboard provides an interactive view of Superstore sales, profitability, discounts, and returns. By combining key performance indicators with dynamic visualizations, it helps identify business trends, monitor performance, and support data-driven decision-making.
+
+## 👤 Author
+
+**Harsha Janardhanan**
+
+Aspiring Data Analyst | Power BI | Excel | SQL | Python
+
+- 🔗 **LinkedIn:** [Harsha Janardhanan](www.linkedin.com/in/harsha-janardhanan-3aa9a1298)
+- 📧 **Email:** harshajanardhanan2@gmail.com
+
