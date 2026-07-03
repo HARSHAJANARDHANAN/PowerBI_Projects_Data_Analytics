@@ -55,4 +55,5 @@ The objective of this project is to:
 - Summary Table
 
 ## 📸 Dashboard Demo
-![Dashboard Demo](Screenshots/dashboard_demo.gif)
+
+<img width="1053" height="788" alt="dashboard_demo gif" src="https://github.com/user-attachments/assets/77c53b11-a4b5-42bf-800e-1770f7721797" />
