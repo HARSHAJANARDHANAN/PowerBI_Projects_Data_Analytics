@@ -100,6 +100,6 @@ This dashboard provides an interactive view of Superstore sales, profitability, 
 
 Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
-- 🔗 **LinkedIn:** [Harsha Janardhanan](www.linkedin.com/in/harsha-janardhanan-3aa9a1298)
+- 🔗 **LinkedIn:** [Harsha Janardhanan](https://www.linkedin.com/in/harsha-janardhanan-3aa9a1298)
 - 📧 **Email:** harshajanardhanan2@gmail.com
 
